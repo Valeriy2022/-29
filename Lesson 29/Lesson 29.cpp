@@ -16,7 +16,7 @@
 #include <stdio.h>
 #include <string.h>
 using namespace std;
-using namespace std;
+
 // 1. Подсчет длины строки ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++==
 
 char Mystrlength(const char* string)
